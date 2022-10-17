@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">Exercise Balance + Recommendations</string>
+    <string id="main_screen">Main Screen</string>
+    <string id="recommendations_label">Recommendations</string>
+    <string id="history_label">History</string>
+    <string id="recommendations_home">Recommendations Home</string>
+    <string id="history_home">History Home</string>
+    <string id="add_activity_home">Add Activity Home</string>
+    <string id="strength_label">Add Strength</string>
+    <string id="cardio_label">Add Cardio</string>
+</strings>
