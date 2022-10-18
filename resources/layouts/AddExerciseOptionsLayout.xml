@@ -1,4 +1,4 @@
 <layout id="AddExerciseOptionsLayout">
-    <label id="recommendations" x="center" y="100" text="@Strings.strength_label" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
-    <label id="history" x="center" y="220" text="@Strings.cardio_label" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+    <label id="strength" x="center" y="100" text="@Strings.strength_label" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+    <label id="cardio" x="center" y="220" text="@Strings.cardio_label" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
 </layout>

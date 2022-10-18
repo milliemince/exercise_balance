@@ -1,0 +1,5 @@
+<layout id="AddStrengthLayout">
+    <label id="upper_body" x="180" y="90" text="@Strings.upper_body" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+    <label id="lower_body" x="180" y="180" text="@Strings.lower_body" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+    <label id="full_body" x="180" y="270" text="@Strings.full_body" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+</layout>

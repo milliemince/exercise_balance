@@ -13,9 +13,9 @@ class AddActivityDelegate extends WatchUi.InputDelegate {
         if (coordinate[1] >= 80 and coordinate[1] <= 160) {
             //push recommendations view
             System.println("Switching to Add Strength View");
-            WatchUi.pushView(new AddCardioView(), new AddCardioDelegate(), WatchUi.SWIPE_LEFT);
+            WatchUi.pushView(new AddStrengthView(), new AddStrengthDelegate(), WatchUi.SWIPE_LEFT);
         } else if (coordinate[1] >= 200 and coordinate[1] <= 280) {
-            //push history view
+            //push cardio view
             System.println("Switching to Add Cardio View");
             WatchUi.pushView(new AddCardioView(), new AddCardioDelegate(), WatchUi.SWIPE_LEFT);
         }

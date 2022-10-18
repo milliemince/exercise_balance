@@ -8,4 +8,11 @@
     <string id="add_activity_home">Add Activity Home</string>
     <string id="strength_label">Add Strength</string>
     <string id="cardio_label">Add Cardio</string>
+    <string id="run">Run</string>
+    <string id="bike">Bike</string>
+    <string id="tennis">Tennis</string>
+    <string id="other">Other</string>
+    <string id="upper_body">Upper Body</string>
+    <string id="lower_body">Lower Body</string>
+    <string id="full_body">Full Body</string>
 </strings>

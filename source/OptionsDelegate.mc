@@ -22,4 +22,12 @@ class OptionsDelegate extends WatchUi.InputDelegate {
         return true;
     }
 
+    function onSwipe(swipeEvent) {
+        System.println(swipeEvent.getDirection());
+        if (swipeEvent.getDirection() == 2) {
+            System.println("Swipe back detected, popping view");
+            WatchUi.popView(WatchUi.SLIDE_DOWN);
+        }
+    }
+
 }

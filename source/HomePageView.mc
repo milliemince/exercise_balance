@@ -66,7 +66,7 @@ class HomePageView extends WatchUi.View {
 
         for (var i = 0; i < exercises.size(); i++) {
             var count = exercise_dictionary[exercises[i]];
-            System.println(count);
+            //System.println(count);
             bar_height.put(exercises[i], count.toFloat()/total);
         }
 

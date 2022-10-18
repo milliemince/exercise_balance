@@ -1,16 +1,16 @@
 import Toybox.Lang;
 import Toybox.WatchUi;
 
-class AddCardioView extends WatchUi.View {
+class AddStrengthView extends WatchUi.View {
 
     function initialize() {
-        System.println("In Cardio View!");
+        System.println("In Strength View!");
         View.initialize();
     }
 
     // Load your resources here
     function onLayout(dc as Dc) as Void {
-        setLayout(Rez.Layouts.AddCardioLayout(dc));
+        setLayout(Rez.Layouts.AddStrengthLayout(dc));
     }
 
     // Called when this View is brought to the foreground. Restore

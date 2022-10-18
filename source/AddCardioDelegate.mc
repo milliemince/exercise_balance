@@ -8,6 +8,24 @@ class AddCardioDelegate extends WatchUi.InputDelegate {
         InputDelegate.initialize();
     }
 
+    function onTap(clickEvent) {
+        var coordinate = clickEvent.getCoordinates(); // e.g. [36, 40]
+        //System.println(coordinate);
+        if (coordinate[0] <= 175) {
+            if (coordinate[1] <= 175) {
+                System.println("Increment run");
+            } else {
+                System.println("Increment bike");
+            }
+        } else {
+            if (coordinate[1] <= 175) {
+                System.println("Increment tennis");
+            } else {
+                System.println("Increment other");
+            }
+        }
+    }
+
     // function onTap(clickEvent) {
     //     var coordinate = clickEvent.getCoordinates(); // e.g. [36, 40]
     //     if (coordinate[1] >= 80 and coordinate[1] <= 160) {

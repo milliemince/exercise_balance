@@ -9,9 +9,9 @@ class HomePageDelegate extends WatchUi.BehaviorDelegate {
 
     //handles swipe to options screen
     function onSwipe(swipeEvent) {
-        System.println(swipeEvent.getDirection());
-        if (swipeEvent.getDirection() == 3) {
-            WatchUi.pushView(new OptionsView(), new OptionsDelegate(), WatchUi.SLIDE_RIGHT);
+        //System.println(swipeEvent.getDirection());
+        if (swipeEvent.getDirection() == 0) {
+            WatchUi.pushView(new OptionsView(), new OptionsDelegate(), WatchUi.SLIDE_DOWN);
         }
     }
 

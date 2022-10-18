@@ -1,7 +1,7 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
-    <bitmap id="run" filename="../images/run.png"/>
+    <!-- <bitmap id="run" filename="../images/run.png"/>
     <bitmap id="bike" filename="../images/bike.png"/>
     <bitmap id="tennis" filename="../images/tennis.png"/>
-    <bitmap id="other" filename="../images/other.png"/>
+    <bitmap id="other" filename="../images/other.png"/> -->
 </drawables>

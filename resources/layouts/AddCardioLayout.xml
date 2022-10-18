@@ -1,3 +1,6 @@
 <layout id="AddCardioLayout">
-    <bitmap id="bike" filename="../images/bike.png"/>
+    <label id="Run" x="115" y="100" text="@Strings.run" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+    <label id="Bike" x="115" y="220" text="@Strings.bike" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+    <label id="Tennis" x="245" y="100" text="@Strings.tennis" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
+    <label id="Other" x="245" y="220" text="@Strings.other" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_TINY" />
 </layout>
