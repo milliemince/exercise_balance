@@ -9,8 +9,8 @@
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsDelegate.mc" id="2" lineNum="12" parent="globals/RecommendationsDelegate" pc="268435512" symbol="onSwipe"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsDelegate.mc" id="2" lineNum="13" parent="globals/RecommendationsDelegate" pc="268435532" symbol="onSwipe"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsDelegate.mc" id="2" lineNum="14" parent="globals/RecommendationsDelegate" pc="268435555" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsDelegate.mc" id="3" lineNum="4" parent="globals/RecommendationsDelegate" pc="268442118" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsDelegate.mc" id="3" lineNum="4" parent="globals/RecommendationsDelegate" pc="268442118" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsDelegate.mc" id="3" lineNum="4" parent="globals/RecommendationsDelegate" pc="268442377" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsDelegate.mc" id="3" lineNum="4" parent="globals/RecommendationsDelegate" pc="268442377" symbol="&lt;init&gt;"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityView.mc" id="5" lineNum="6" parent="globals/AddActivityView" pc="268435587" symbol="initialize"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityView.mc" id="5" lineNum="7" parent="globals/AddActivityView" pc="268435591" symbol="initialize"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityView.mc" id="6" lineNum="11" parent="globals/AddActivityView" pc="268435610" symbol="onLayout"/>
@@ -19,8 +19,8 @@
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityView.mc" id="8" lineNum="22" parent="globals/AddActivityView" pc="268435657" symbol="onUpdate"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityView.mc" id="8" lineNum="24" parent="globals/AddActivityView" pc="268435661" symbol="onUpdate"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityView.mc" id="9" lineNum="30" parent="globals/AddActivityView" pc="268435682" symbol="onHide"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityView.mc" id="10" lineNum="4" parent="globals/AddActivityView" pc="268442175" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityView.mc" id="10" lineNum="4" parent="globals/AddActivityView" pc="268442175" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityView.mc" id="10" lineNum="4" parent="globals/AddActivityView" pc="268442434" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityView.mc" id="10" lineNum="4" parent="globals/AddActivityView" pc="268442434" symbol="&lt;init&gt;"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthDelegate.mc" id="12" lineNum="7" parent="globals/AddStrengthDelegate" pc="268435687" symbol="initialize"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthDelegate.mc" id="12" lineNum="8" parent="globals/AddStrengthDelegate" pc="268435691" symbol="initialize"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthDelegate.mc" id="13" lineNum="11" parent="globals/AddStrengthDelegate" pc="268435710" symbol="onTap"/>
@@ -30,8 +30,8 @@
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthDelegate.mc" id="13" lineNum="16" parent="globals/AddStrengthDelegate" pc="268435768" symbol="onTap"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthDelegate.mc" id="13" lineNum="17" parent="globals/AddStrengthDelegate" pc="268435785" symbol="onTap"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthDelegate.mc" id="13" lineNum="19" parent="globals/AddStrengthDelegate" pc="268435809" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthDelegate.mc" id="14" lineNum="5" parent="globals/AddStrengthDelegate" pc="268442262" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthDelegate.mc" id="14" lineNum="5" parent="globals/AddStrengthDelegate" pc="268442262" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthDelegate.mc" id="14" lineNum="5" parent="globals/AddStrengthDelegate" pc="268442521" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthDelegate.mc" id="14" lineNum="5" parent="globals/AddStrengthDelegate" pc="268442521" symbol="&lt;init&gt;"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsView.mc" id="16" lineNum="5" parent="globals/OptionsView" pc="268435831" symbol="initialize"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsView.mc" id="16" lineNum="6" parent="globals/OptionsView" pc="268435835" symbol="initialize"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsView.mc" id="17" lineNum="10" parent="globals/OptionsView" pc="268435854" symbol="onLayout"/>
@@ -40,8 +40,8 @@
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsView.mc" id="19" lineNum="21" parent="globals/OptionsView" pc="268435901" symbol="onUpdate"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsView.mc" id="19" lineNum="23" parent="globals/OptionsView" pc="268435905" symbol="onUpdate"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsView.mc" id="20" lineNum="29" parent="globals/OptionsView" pc="268435926" symbol="onHide"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsView.mc" id="21" lineNum="3" parent="globals/OptionsView" pc="268442338" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsView.mc" id="21" lineNum="3" parent="globals/OptionsView" pc="268442338" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsView.mc" id="21" lineNum="3" parent="globals/OptionsView" pc="268442597" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsView.mc" id="21" lineNum="3" parent="globals/OptionsView" pc="268442597" symbol="&lt;init&gt;"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsView.mc" id="23" lineNum="6" parent="globals/RecommendationsView" pc="268435931" symbol="initialize"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsView.mc" id="23" lineNum="7" parent="globals/RecommendationsView" pc="268435935" symbol="initialize"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsView.mc" id="24" lineNum="11" parent="globals/RecommendationsView" pc="268435954" symbol="onLayout"/>
@@ -50,204 +50,213 @@
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsView.mc" id="26" lineNum="22" parent="globals/RecommendationsView" pc="268436001" symbol="onUpdate"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsView.mc" id="26" lineNum="24" parent="globals/RecommendationsView" pc="268436005" symbol="onUpdate"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsView.mc" id="27" lineNum="30" parent="globals/RecommendationsView" pc="268436026" symbol="onHide"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsView.mc" id="28" lineNum="4" parent="globals/RecommendationsView" pc="268442156" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsView.mc" id="28" lineNum="4" parent="globals/RecommendationsView" pc="268442156" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="30" lineNum="6" parent="globals/HomePageView" pc="268436031" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="30" lineNum="7" parent="globals/HomePageView" pc="268436035" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="31" lineNum="11" parent="globals/HomePageView" pc="268436054" symbol="onLayout"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="31" lineNum="12" parent="globals/HomePageView" pc="268436058" symbol="onLayout"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="32" lineNum="18" parent="globals/HomePageView" pc="268436096" symbol="onShow"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="22" parent="globals/HomePageView" pc="268436101" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsView.mc" id="28" lineNum="4" parent="globals/RecommendationsView" pc="268442415" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/RecommendationsView.mc" id="28" lineNum="4" parent="globals/RecommendationsView" pc="268442415" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="30" lineNum="7" parent="globals/HomePageView" pc="268436031" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="30" lineNum="8" parent="globals/HomePageView" pc="268436035" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="31" lineNum="12" parent="globals/HomePageView" pc="268436054" symbol="onLayout"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="31" lineNum="13" parent="globals/HomePageView" pc="268436058" symbol="onLayout"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="32" lineNum="19" parent="globals/HomePageView" pc="268436096" symbol="onShow"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="23" parent="globals/HomePageView" pc="268436101" symbol="onUpdate"/>
         <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="27" parent="globals/HomePageView" pc="268436105" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="28" parent="globals/HomePageView" pc="268436112" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="29" parent="globals/HomePageView" pc="268436119" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="30" parent="globals/HomePageView" pc="268436126" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="31" parent="globals/HomePageView" pc="268436133" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="32" parent="globals/HomePageView" pc="268436140" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="33" parent="globals/HomePageView" pc="268436147" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="36" parent="globals/HomePageView" pc="268436154" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="37" parent="globals/HomePageView" pc="268436253" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="38" parent="globals/HomePageView" pc="268436352" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="43" parent="globals/HomePageView" pc="268436500" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="45" parent="globals/HomePageView" pc="268436536" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="47" parent="globals/HomePageView" pc="268436548" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="50" parent="globals/HomePageView" pc="268436584" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="59" parent="globals/HomePageView" pc="268436647" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="60" parent="globals/HomePageView" pc="268436675" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="61" parent="globals/HomePageView" pc="268436712" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="63" parent="globals/HomePageView" pc="268436719" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="67" parent="globals/HomePageView" pc="268436727" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="68" parent="globals/HomePageView" pc="268436751" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="70" parent="globals/HomePageView" pc="268436761" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="75" parent="globals/HomePageView" pc="268436805" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="76" parent="globals/HomePageView" pc="268436812" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="77" parent="globals/HomePageView" pc="268436819" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="78" parent="globals/HomePageView" pc="268436843" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="79" parent="globals/HomePageView" pc="268436860" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="80" parent="globals/HomePageView" pc="268436892" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="81" parent="globals/HomePageView" pc="268436935" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="86" parent="globals/HomePageView" pc="268436978" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="87" parent="globals/HomePageView" pc="268436985" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="88" parent="globals/HomePageView" pc="268436992" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="89" parent="globals/HomePageView" pc="268437016" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="90" parent="globals/HomePageView" pc="268437048" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="91" parent="globals/HomePageView" pc="268437074" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="92" parent="globals/HomePageView" pc="268437110" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="99" parent="globals/HomePageView" pc="268437182" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="103" parent="globals/HomePageView" pc="268437205" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="104" parent="globals/HomePageView" pc="268437241" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="34" lineNum="115" parent="globals/HomePageView" pc="268437269" symbol="onHide"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="35" lineNum="4" parent="globals/HomePageView" pc="268442137" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="35" lineNum="4" parent="globals/HomePageView" pc="268442137" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="37" lineNum="7" parent="globals/AddActivityDelegate" pc="268437274" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="37" lineNum="8" parent="globals/AddActivityDelegate" pc="268437278" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="11" parent="globals/AddActivityDelegate" pc="268437297" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="12" parent="globals/AddActivityDelegate" pc="268437301" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="13" parent="globals/AddActivityDelegate" pc="268437314" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="15" parent="globals/AddActivityDelegate" pc="268437351" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="16" parent="globals/AddActivityDelegate" pc="268437372" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="17" parent="globals/AddActivityDelegate" pc="268437447" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="19" parent="globals/AddActivityDelegate" pc="268437484" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="20" parent="globals/AddActivityDelegate" pc="268437505" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="22" parent="globals/AddActivityDelegate" pc="268437580" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="39" lineNum="5" parent="globals/AddActivityDelegate" pc="268442213" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="39" lineNum="5" parent="globals/AddActivityDelegate" pc="268442213" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="41" lineNum="7" parent="globals/exercise_balanceApp" pc="268437584" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="41" lineNum="8" parent="globals/exercise_balanceApp" pc="268437588" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="42" lineNum="12" parent="globals/exercise_balanceApp" pc="268437607" symbol="onStart"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="43" lineNum="16" parent="globals/exercise_balanceApp" pc="268437612" symbol="onStop"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="44" lineNum="20" parent="globals/exercise_balanceApp" pc="268437617" symbol="getInitialView"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="44" lineNum="21" parent="globals/exercise_balanceApp" pc="268437621" symbol="getInitialView"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="45" lineNum="5" parent="globals/exercise_balanceApp" pc="268442194" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="45" lineNum="5" parent="globals/exercise_balanceApp" pc="268442194" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="46" lineNum="26" parent="globals" pc="268437689" symbol="getApp"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="46" lineNum="27" parent="globals" pc="268437701" symbol="getApp"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="48" lineNum="5" parent="globals/HistoryView" pc="268437718" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="48" lineNum="6" parent="globals/HistoryView" pc="268437722" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="49" lineNum="10" parent="globals/HistoryView" pc="268437741" symbol="onLayout"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="49" lineNum="11" parent="globals/HistoryView" pc="268437745" symbol="onLayout"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="50" lineNum="17" parent="globals/HistoryView" pc="268437783" symbol="onShow"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="51" lineNum="21" parent="globals/HistoryView" pc="268437788" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="51" lineNum="23" parent="globals/HistoryView" pc="268437792" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="52" lineNum="29" parent="globals/HistoryView" pc="268437813" symbol="onHide"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="53" lineNum="3" parent="globals/HistoryView" pc="268442376" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="53" lineNum="3" parent="globals/HistoryView" pc="268442376" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="55" lineNum="6" parent="globals/AddStrengthView" pc="268437818" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="55" lineNum="7" parent="globals/AddStrengthView" pc="268437822" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="55" lineNum="8" parent="globals/AddStrengthView" pc="268437845" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="56" lineNum="12" parent="globals/AddStrengthView" pc="268437864" symbol="onLayout"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="56" lineNum="13" parent="globals/AddStrengthView" pc="268437868" symbol="onLayout"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="57" lineNum="19" parent="globals/AddStrengthView" pc="268437906" symbol="onShow"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="58" lineNum="23" parent="globals/AddStrengthView" pc="268437911" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="58" lineNum="25" parent="globals/AddStrengthView" pc="268437915" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="59" lineNum="31" parent="globals/AddStrengthView" pc="268437936" symbol="onHide"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="60" lineNum="4" parent="globals/AddStrengthView" pc="268442099" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="60" lineNum="4" parent="globals/AddStrengthView" pc="268442099" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="62" lineNum="7" parent="globals/AddCardioDelegate" pc="268437941" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="62" lineNum="8" parent="globals/AddCardioDelegate" pc="268437945" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="11" parent="globals/AddCardioDelegate" pc="268437964" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="12" parent="globals/AddCardioDelegate" pc="268437968" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="14" parent="globals/AddCardioDelegate" pc="268437981" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="15" parent="globals/AddCardioDelegate" pc="268437998" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="16" parent="globals/AddCardioDelegate" pc="268438015" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="18" parent="globals/AddCardioDelegate" pc="268438039" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="21" parent="globals/AddCardioDelegate" pc="268438063" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="22" parent="globals/AddCardioDelegate" pc="268438080" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="24" parent="globals/AddCardioDelegate" pc="268438104" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="5" parent="globals/AddCardioDelegate" pc="268442357" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="5" parent="globals/AddCardioDelegate" pc="268442357" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="66" lineNum="6" parent="globals/HistoryDelegate" pc="268438126" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="66" lineNum="7" parent="globals/HistoryDelegate" pc="268438130" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="67" lineNum="10" parent="globals/HistoryDelegate" pc="268438149" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="67" lineNum="11" parent="globals/HistoryDelegate" pc="268438153" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="67" lineNum="12" parent="globals/HistoryDelegate" pc="268438182" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="67" lineNum="13" parent="globals/HistoryDelegate" pc="268438202" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="67" lineNum="14" parent="globals/HistoryDelegate" pc="268438225" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="68" lineNum="4" parent="globals/HistoryDelegate" pc="268442300" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="68" lineNum="4" parent="globals/HistoryDelegate" pc="268442300" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="70" lineNum="7" parent="globals/OptionsDelegate" pc="268438257" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="70" lineNum="8" parent="globals/OptionsDelegate" pc="268438261" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="11" parent="globals/OptionsDelegate" pc="268438280" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="12" parent="globals/OptionsDelegate" pc="268438284" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="13" parent="globals/OptionsDelegate" pc="268438297" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="15" parent="globals/OptionsDelegate" pc="268438334" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="16" parent="globals/OptionsDelegate" pc="268438355" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="17" parent="globals/OptionsDelegate" pc="268438430" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="19" parent="globals/OptionsDelegate" pc="268438467" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="20" parent="globals/OptionsDelegate" pc="268438488" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="22" parent="globals/OptionsDelegate" pc="268438563" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="25" parent="globals/OptionsDelegate" pc="268438567" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="26" parent="globals/OptionsDelegate" pc="268438571" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="27" parent="globals/OptionsDelegate" pc="268438598" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="28" parent="globals/OptionsDelegate" pc="268438618" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="29" parent="globals/OptionsDelegate" pc="268438639" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="73" lineNum="5" parent="globals/OptionsDelegate" pc="268442319" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="73" lineNum="5" parent="globals/OptionsDelegate" pc="268442319" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="75" lineNum="6" parent="globals/AddCardioView" pc="268438671" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="75" lineNum="7" parent="globals/AddCardioView" pc="268438675" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="75" lineNum="8" parent="globals/AddCardioView" pc="268438698" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="76" lineNum="12" parent="globals/AddCardioView" pc="268438717" symbol="onLayout"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="76" lineNum="13" parent="globals/AddCardioView" pc="268438721" symbol="onLayout"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="77" lineNum="19" parent="globals/AddCardioView" pc="268438759" symbol="onShow"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="78" lineNum="23" parent="globals/AddCardioView" pc="268438764" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="78" lineNum="25" parent="globals/AddCardioView" pc="268438768" symbol="onUpdate"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="79" lineNum="31" parent="globals/AddCardioView" pc="268438789" symbol="onHide"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="80" lineNum="4" parent="globals/AddCardioView" pc="268442395" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="80" lineNum="4" parent="globals/AddCardioView" pc="268442395" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="82" lineNum="6" parent="globals/HomePageDelegate" pc="268438794" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="82" lineNum="7" parent="globals/HomePageDelegate" pc="268438798" symbol="initialize"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="83" lineNum="11" parent="globals/HomePageDelegate" pc="268438817" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="83" lineNum="13" parent="globals/HomePageDelegate" pc="268438821" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="83" lineNum="14" parent="globals/HomePageDelegate" pc="268438841" symbol="onSwipe"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="84" lineNum="19" parent="globals/HomePageDelegate" pc="268438917" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="84" lineNum="20" parent="globals/HomePageDelegate" pc="268438921" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="84" lineNum="21" parent="globals/HomePageDelegate" pc="268438934" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="84" lineNum="22" parent="globals/HomePageDelegate" pc="268438954" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="84" lineNum="24" parent="globals/HomePageDelegate" pc="268439011" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="84" lineNum="25" parent="globals/HomePageDelegate" pc="268439034" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="84" lineNum="27" parent="globals/HomePageDelegate" pc="268439109" symbol="onTap"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="85" lineNum="4" parent="globals/HomePageDelegate" pc="268442281" symbol="&lt;init&gt;"/>
-        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="85" lineNum="4" parent="globals/HomePageDelegate" pc="268442281" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="87" lineNum="2" parent="globals/Rez/Drawables" pc="268442256" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="88" lineNum="6" parent="globals/Rez/Fonts" pc="268442258" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="89" lineNum="8" parent="globals/Rez/JsonData" pc="268442260" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="90" lineNum="17" parent="globals/Rez/Layouts" pc="268439113" symbol="OptionsLayout"/>
-        <entry filename="Rez" id="90" lineNum="19" parent="globals/Rez/Layouts" pc="268439125" symbol="OptionsLayout"/>
-        <entry filename="Rez" id="90" lineNum="20" parent="globals/Rez/Layouts" pc="268439290" symbol="OptionsLayout"/>
-        <entry filename="Rez" id="90" lineNum="22" parent="globals/Rez/Layouts" pc="268439455" symbol="OptionsLayout"/>
-        <entry filename="Rez" id="91" lineNum="31" parent="globals/Rez/Layouts" pc="268439483" symbol="AddExerciseOptionsLayout"/>
-        <entry filename="Rez" id="91" lineNum="33" parent="globals/Rez/Layouts" pc="268439495" symbol="AddExerciseOptionsLayout"/>
-        <entry filename="Rez" id="91" lineNum="34" parent="globals/Rez/Layouts" pc="268439660" symbol="AddExerciseOptionsLayout"/>
-        <entry filename="Rez" id="91" lineNum="36" parent="globals/Rez/Layouts" pc="268439825" symbol="AddExerciseOptionsLayout"/>
-        <entry filename="Rez" id="92" lineNum="45" parent="globals/Rez/Layouts" pc="268439853" symbol="HistoryLayout"/>
-        <entry filename="Rez" id="92" lineNum="47" parent="globals/Rez/Layouts" pc="268439865" symbol="HistoryLayout"/>
-        <entry filename="Rez" id="92" lineNum="49" parent="globals/Rez/Layouts" pc="268440047" symbol="HistoryLayout"/>
-        <entry filename="Rez" id="93" lineNum="58" parent="globals/Rez/Layouts" pc="268440065" symbol="AddActivityLayout"/>
-        <entry filename="Rez" id="93" lineNum="60" parent="globals/Rez/Layouts" pc="268440077" symbol="AddActivityLayout"/>
-        <entry filename="Rez" id="93" lineNum="61" parent="globals/Rez/Layouts" pc="268440229" symbol="AddActivityLayout"/>
-        <entry filename="Rez" id="93" lineNum="63" parent="globals/Rez/Layouts" pc="268440381" symbol="AddActivityLayout"/>
-        <entry filename="Rez" id="94" lineNum="72" parent="globals/Rez/Layouts" pc="268440409" symbol="HomePageLayout"/>
-        <entry filename="Rez" id="94" lineNum="74" parent="globals/Rez/Layouts" pc="268440421" symbol="HomePageLayout"/>
-        <entry filename="Rez" id="94" lineNum="76" parent="globals/Rez/Layouts" pc="268440603" symbol="HomePageLayout"/>
-        <entry filename="Rez" id="95" lineNum="85" parent="globals/Rez/Layouts" pc="268440621" symbol="AddCardioLayout"/>
-        <entry filename="Rez" id="95" lineNum="87" parent="globals/Rez/Layouts" pc="268440633" symbol="AddCardioLayout"/>
-        <entry filename="Rez" id="95" lineNum="88" parent="globals/Rez/Layouts" pc="268440798" symbol="AddCardioLayout"/>
-        <entry filename="Rez" id="95" lineNum="89" parent="globals/Rez/Layouts" pc="268440963" symbol="AddCardioLayout"/>
-        <entry filename="Rez" id="95" lineNum="90" parent="globals/Rez/Layouts" pc="268441128" symbol="AddCardioLayout"/>
-        <entry filename="Rez" id="95" lineNum="92" parent="globals/Rez/Layouts" pc="268441293" symbol="AddCardioLayout"/>
-        <entry filename="Rez" id="96" lineNum="101" parent="globals/Rez/Layouts" pc="268441341" symbol="RecommendationsLayout"/>
-        <entry filename="Rez" id="96" lineNum="103" parent="globals/Rez/Layouts" pc="268441353" symbol="RecommendationsLayout"/>
-        <entry filename="Rez" id="96" lineNum="105" parent="globals/Rez/Layouts" pc="268441535" symbol="RecommendationsLayout"/>
-        <entry filename="Rez" id="97" lineNum="114" parent="globals/Rez/Layouts" pc="268441553" symbol="AddStrengthLayout"/>
-        <entry filename="Rez" id="97" lineNum="116" parent="globals/Rez/Layouts" pc="268441565" symbol="AddStrengthLayout"/>
-        <entry filename="Rez" id="97" lineNum="117" parent="globals/Rez/Layouts" pc="268441730" symbol="AddStrengthLayout"/>
-        <entry filename="Rez" id="97" lineNum="118" parent="globals/Rez/Layouts" pc="268441895" symbol="AddStrengthLayout"/>
-        <entry filename="Rez" id="97" lineNum="120" parent="globals/Rez/Layouts" pc="268442060" symbol="AddStrengthLayout"/>
-        <entry filename="Rez" id="98" lineNum="10" parent="globals/Rez/Layouts" pc="268442259" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="99" lineNum="125" parent="globals/Rez/Menus" pc="268442257" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="100" lineNum="127" parent="globals/Rez/Strings" pc="268442261" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="101" lineNum="1" parent="globals/Rez" pc="268442232" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="101" lineNum="1" parent="globals/Rez" pc="268442232" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="52" parent="globals/HomePageView" pc="268436122" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="53" parent="globals/HomePageView" pc="268436140" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="54" parent="globals/HomePageView" pc="268436158" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="57" parent="globals/HomePageView" pc="268436176" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="59" parent="globals/HomePageView" pc="268436212" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="61" parent="globals/HomePageView" pc="268436224" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="64" parent="globals/HomePageView" pc="268436260" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="73" parent="globals/HomePageView" pc="268436323" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="74" parent="globals/HomePageView" pc="268436351" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="75" parent="globals/HomePageView" pc="268436388" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="77" parent="globals/HomePageView" pc="268436395" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="81" parent="globals/HomePageView" pc="268436403" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="82" parent="globals/HomePageView" pc="268436414" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="83" parent="globals/HomePageView" pc="268436438" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="85" parent="globals/HomePageView" pc="268436448" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="90" parent="globals/HomePageView" pc="268436492" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="91" parent="globals/HomePageView" pc="268436499" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="92" parent="globals/HomePageView" pc="268436506" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="93" parent="globals/HomePageView" pc="268436530" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="94" parent="globals/HomePageView" pc="268436547" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="95" parent="globals/HomePageView" pc="268436579" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="96" parent="globals/HomePageView" pc="268436622" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="101" parent="globals/HomePageView" pc="268436665" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="102" parent="globals/HomePageView" pc="268436672" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="103" parent="globals/HomePageView" pc="268436679" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="104" parent="globals/HomePageView" pc="268436703" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="105" parent="globals/HomePageView" pc="268436735" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="106" parent="globals/HomePageView" pc="268436761" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="107" parent="globals/HomePageView" pc="268436797" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="114" parent="globals/HomePageView" pc="268436869" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="121" parent="globals/HomePageView" pc="268436895" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="33" lineNum="122" parent="globals/HomePageView" pc="268436931" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="34" lineNum="133" parent="globals/HomePageView" pc="268436959" symbol="onHide"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="35" lineNum="5" parent="globals/HomePageView" pc="268442396" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageView.mc" id="35" lineNum="5" parent="globals/HomePageView" pc="268442396" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="37" lineNum="7" parent="globals/AddActivityDelegate" pc="268436964" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="37" lineNum="8" parent="globals/AddActivityDelegate" pc="268436968" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="11" parent="globals/AddActivityDelegate" pc="268436987" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="12" parent="globals/AddActivityDelegate" pc="268436991" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="13" parent="globals/AddActivityDelegate" pc="268437004" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="15" parent="globals/AddActivityDelegate" pc="268437041" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="16" parent="globals/AddActivityDelegate" pc="268437062" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="17" parent="globals/AddActivityDelegate" pc="268437137" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="19" parent="globals/AddActivityDelegate" pc="268437174" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="20" parent="globals/AddActivityDelegate" pc="268437195" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="38" lineNum="22" parent="globals/AddActivityDelegate" pc="268437270" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="39" lineNum="5" parent="globals/AddActivityDelegate" pc="268442472" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddActivityDelegate.mc" id="39" lineNum="5" parent="globals/AddActivityDelegate" pc="268442472" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="41" lineNum="7" parent="globals/exercise_balanceApp" pc="268437274" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="41" lineNum="8" parent="globals/exercise_balanceApp" pc="268437278" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="41" lineNum="9" parent="globals/exercise_balanceApp" pc="268437296" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="41" lineNum="10" parent="globals/exercise_balanceApp" pc="268437313" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="41" lineNum="11" parent="globals/exercise_balanceApp" pc="268437427" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="41" lineNum="12" parent="globals/exercise_balanceApp" pc="268437541" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="42" lineNum="18" parent="globals/exercise_balanceApp" pc="268437719" symbol="onStart"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="43" lineNum="22" parent="globals/exercise_balanceApp" pc="268437724" symbol="onStop"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="44" lineNum="26" parent="globals/exercise_balanceApp" pc="268437729" symbol="getInitialView"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="44" lineNum="27" parent="globals/exercise_balanceApp" pc="268437733" symbol="getInitialView"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="45" lineNum="5" parent="globals/exercise_balanceApp" pc="268442453" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="45" lineNum="5" parent="globals/exercise_balanceApp" pc="268442453" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="46" lineNum="32" parent="globals" pc="268437801" symbol="getApp"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/App.mc" id="46" lineNum="33" parent="globals" pc="268437813" symbol="getApp"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="48" lineNum="5" parent="globals/HistoryView" pc="268437830" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="48" lineNum="6" parent="globals/HistoryView" pc="268437834" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="49" lineNum="10" parent="globals/HistoryView" pc="268437853" symbol="onLayout"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="49" lineNum="11" parent="globals/HistoryView" pc="268437857" symbol="onLayout"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="50" lineNum="17" parent="globals/HistoryView" pc="268437895" symbol="onShow"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="51" lineNum="21" parent="globals/HistoryView" pc="268437900" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="51" lineNum="23" parent="globals/HistoryView" pc="268437904" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="52" lineNum="29" parent="globals/HistoryView" pc="268437925" symbol="onHide"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="53" lineNum="3" parent="globals/HistoryView" pc="268442635" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryView.mc" id="53" lineNum="3" parent="globals/HistoryView" pc="268442635" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="55" lineNum="6" parent="globals/AddStrengthView" pc="268437930" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="55" lineNum="7" parent="globals/AddStrengthView" pc="268437934" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="55" lineNum="8" parent="globals/AddStrengthView" pc="268437957" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="56" lineNum="12" parent="globals/AddStrengthView" pc="268437976" symbol="onLayout"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="56" lineNum="13" parent="globals/AddStrengthView" pc="268437980" symbol="onLayout"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="57" lineNum="19" parent="globals/AddStrengthView" pc="268438018" symbol="onShow"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="58" lineNum="23" parent="globals/AddStrengthView" pc="268438023" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="58" lineNum="25" parent="globals/AddStrengthView" pc="268438027" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="59" lineNum="31" parent="globals/AddStrengthView" pc="268438048" symbol="onHide"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="60" lineNum="4" parent="globals/AddStrengthView" pc="268442358" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddStrengthView.mc" id="60" lineNum="4" parent="globals/AddStrengthView" pc="268442358" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="62" lineNum="8" parent="globals/AddCardioDelegate" pc="268438053" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="62" lineNum="9" parent="globals/AddCardioDelegate" pc="268438057" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="12" parent="globals/AddCardioDelegate" pc="268438076" symbol="incrementSubtype"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="14" parent="globals/AddCardioDelegate" pc="268438080" symbol="incrementSubtype"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="15" parent="globals/AddCardioDelegate" pc="268438097" symbol="incrementSubtype"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="18" parent="globals/AddCardioDelegate" pc="268438115" symbol="incrementSubtype"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="19" parent="globals/AddCardioDelegate" pc="268438128" symbol="incrementSubtype"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="63" lineNum="22" parent="globals/AddCardioDelegate" pc="268438135" symbol="incrementSubtype"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="25" parent="globals/AddCardioDelegate" pc="268438155" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="26" parent="globals/AddCardioDelegate" pc="268438159" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="29" parent="globals/AddCardioDelegate" pc="268438172" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="30" parent="globals/AddCardioDelegate" pc="268438189" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="31" parent="globals/AddCardioDelegate" pc="268438206" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="32" parent="globals/AddCardioDelegate" pc="268438227" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="34" parent="globals/AddCardioDelegate" pc="268438247" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="35" parent="globals/AddCardioDelegate" pc="268438268" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="38" parent="globals/AddCardioDelegate" pc="268438288" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="39" parent="globals/AddCardioDelegate" pc="268438305" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="40" parent="globals/AddCardioDelegate" pc="268438326" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="42" parent="globals/AddCardioDelegate" pc="268438346" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="64" lineNum="43" parent="globals/AddCardioDelegate" pc="268438367" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="65" lineNum="6" parent="globals/AddCardioDelegate" pc="268442616" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioDelegate.mc" id="65" lineNum="6" parent="globals/AddCardioDelegate" pc="268442616" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="67" lineNum="6" parent="globals/HistoryDelegate" pc="268438385" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="67" lineNum="7" parent="globals/HistoryDelegate" pc="268438389" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="68" lineNum="10" parent="globals/HistoryDelegate" pc="268438408" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="68" lineNum="11" parent="globals/HistoryDelegate" pc="268438412" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="68" lineNum="12" parent="globals/HistoryDelegate" pc="268438441" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="68" lineNum="13" parent="globals/HistoryDelegate" pc="268438461" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="68" lineNum="14" parent="globals/HistoryDelegate" pc="268438484" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="69" lineNum="4" parent="globals/HistoryDelegate" pc="268442559" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HistoryDelegate.mc" id="69" lineNum="4" parent="globals/HistoryDelegate" pc="268442559" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="7" parent="globals/OptionsDelegate" pc="268438516" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="71" lineNum="8" parent="globals/OptionsDelegate" pc="268438520" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="11" parent="globals/OptionsDelegate" pc="268438539" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="12" parent="globals/OptionsDelegate" pc="268438543" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="13" parent="globals/OptionsDelegate" pc="268438556" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="15" parent="globals/OptionsDelegate" pc="268438593" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="16" parent="globals/OptionsDelegate" pc="268438614" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="17" parent="globals/OptionsDelegate" pc="268438689" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="19" parent="globals/OptionsDelegate" pc="268438726" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="20" parent="globals/OptionsDelegate" pc="268438747" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="72" lineNum="22" parent="globals/OptionsDelegate" pc="268438822" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="73" lineNum="25" parent="globals/OptionsDelegate" pc="268438826" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="73" lineNum="26" parent="globals/OptionsDelegate" pc="268438830" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="73" lineNum="27" parent="globals/OptionsDelegate" pc="268438857" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="73" lineNum="28" parent="globals/OptionsDelegate" pc="268438877" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="73" lineNum="29" parent="globals/OptionsDelegate" pc="268438898" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="74" lineNum="5" parent="globals/OptionsDelegate" pc="268442578" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/OptionsDelegate.mc" id="74" lineNum="5" parent="globals/OptionsDelegate" pc="268442578" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="76" lineNum="6" parent="globals/AddCardioView" pc="268438930" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="76" lineNum="7" parent="globals/AddCardioView" pc="268438934" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="76" lineNum="8" parent="globals/AddCardioView" pc="268438957" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="77" lineNum="12" parent="globals/AddCardioView" pc="268438976" symbol="onLayout"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="77" lineNum="13" parent="globals/AddCardioView" pc="268438980" symbol="onLayout"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="78" lineNum="19" parent="globals/AddCardioView" pc="268439018" symbol="onShow"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="79" lineNum="23" parent="globals/AddCardioView" pc="268439023" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="79" lineNum="25" parent="globals/AddCardioView" pc="268439027" symbol="onUpdate"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="80" lineNum="31" parent="globals/AddCardioView" pc="268439048" symbol="onHide"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="81" lineNum="4" parent="globals/AddCardioView" pc="268442654" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/AddCardioView.mc" id="81" lineNum="4" parent="globals/AddCardioView" pc="268442654" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="83" lineNum="6" parent="globals/HomePageDelegate" pc="268439053" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="83" lineNum="7" parent="globals/HomePageDelegate" pc="268439057" symbol="initialize"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="84" lineNum="11" parent="globals/HomePageDelegate" pc="268439076" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="84" lineNum="13" parent="globals/HomePageDelegate" pc="268439080" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="84" lineNum="14" parent="globals/HomePageDelegate" pc="268439100" symbol="onSwipe"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="85" lineNum="19" parent="globals/HomePageDelegate" pc="268439176" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="85" lineNum="20" parent="globals/HomePageDelegate" pc="268439180" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="85" lineNum="21" parent="globals/HomePageDelegate" pc="268439193" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="85" lineNum="22" parent="globals/HomePageDelegate" pc="268439213" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="85" lineNum="24" parent="globals/HomePageDelegate" pc="268439270" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="85" lineNum="25" parent="globals/HomePageDelegate" pc="268439293" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="85" lineNum="27" parent="globals/HomePageDelegate" pc="268439368" symbol="onTap"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="86" lineNum="4" parent="globals/HomePageDelegate" pc="268442540" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/milliemince1/Desktop/garmin-sdk/exercise_balance/source/HomePageDelegate.mc" id="86" lineNum="4" parent="globals/HomePageDelegate" pc="268442540" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="88" lineNum="2" parent="globals/Rez/Drawables" pc="268442515" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="89" lineNum="6" parent="globals/Rez/Fonts" pc="268442517" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="90" lineNum="8" parent="globals/Rez/JsonData" pc="268442519" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="91" lineNum="17" parent="globals/Rez/Layouts" pc="268439372" symbol="OptionsLayout"/>
+        <entry filename="Rez" id="91" lineNum="19" parent="globals/Rez/Layouts" pc="268439384" symbol="OptionsLayout"/>
+        <entry filename="Rez" id="91" lineNum="20" parent="globals/Rez/Layouts" pc="268439549" symbol="OptionsLayout"/>
+        <entry filename="Rez" id="91" lineNum="22" parent="globals/Rez/Layouts" pc="268439714" symbol="OptionsLayout"/>
+        <entry filename="Rez" id="92" lineNum="31" parent="globals/Rez/Layouts" pc="268439742" symbol="AddExerciseOptionsLayout"/>
+        <entry filename="Rez" id="92" lineNum="33" parent="globals/Rez/Layouts" pc="268439754" symbol="AddExerciseOptionsLayout"/>
+        <entry filename="Rez" id="92" lineNum="34" parent="globals/Rez/Layouts" pc="268439919" symbol="AddExerciseOptionsLayout"/>
+        <entry filename="Rez" id="92" lineNum="36" parent="globals/Rez/Layouts" pc="268440084" symbol="AddExerciseOptionsLayout"/>
+        <entry filename="Rez" id="93" lineNum="45" parent="globals/Rez/Layouts" pc="268440112" symbol="HistoryLayout"/>
+        <entry filename="Rez" id="93" lineNum="47" parent="globals/Rez/Layouts" pc="268440124" symbol="HistoryLayout"/>
+        <entry filename="Rez" id="93" lineNum="49" parent="globals/Rez/Layouts" pc="268440306" symbol="HistoryLayout"/>
+        <entry filename="Rez" id="94" lineNum="58" parent="globals/Rez/Layouts" pc="268440324" symbol="AddActivityLayout"/>
+        <entry filename="Rez" id="94" lineNum="60" parent="globals/Rez/Layouts" pc="268440336" symbol="AddActivityLayout"/>
+        <entry filename="Rez" id="94" lineNum="61" parent="globals/Rez/Layouts" pc="268440488" symbol="AddActivityLayout"/>
+        <entry filename="Rez" id="94" lineNum="63" parent="globals/Rez/Layouts" pc="268440640" symbol="AddActivityLayout"/>
+        <entry filename="Rez" id="95" lineNum="72" parent="globals/Rez/Layouts" pc="268440668" symbol="HomePageLayout"/>
+        <entry filename="Rez" id="95" lineNum="74" parent="globals/Rez/Layouts" pc="268440680" symbol="HomePageLayout"/>
+        <entry filename="Rez" id="95" lineNum="76" parent="globals/Rez/Layouts" pc="268440862" symbol="HomePageLayout"/>
+        <entry filename="Rez" id="96" lineNum="85" parent="globals/Rez/Layouts" pc="268440880" symbol="AddCardioLayout"/>
+        <entry filename="Rez" id="96" lineNum="87" parent="globals/Rez/Layouts" pc="268440892" symbol="AddCardioLayout"/>
+        <entry filename="Rez" id="96" lineNum="88" parent="globals/Rez/Layouts" pc="268441057" symbol="AddCardioLayout"/>
+        <entry filename="Rez" id="96" lineNum="89" parent="globals/Rez/Layouts" pc="268441222" symbol="AddCardioLayout"/>
+        <entry filename="Rez" id="96" lineNum="90" parent="globals/Rez/Layouts" pc="268441387" symbol="AddCardioLayout"/>
+        <entry filename="Rez" id="96" lineNum="92" parent="globals/Rez/Layouts" pc="268441552" symbol="AddCardioLayout"/>
+        <entry filename="Rez" id="97" lineNum="101" parent="globals/Rez/Layouts" pc="268441600" symbol="RecommendationsLayout"/>
+        <entry filename="Rez" id="97" lineNum="103" parent="globals/Rez/Layouts" pc="268441612" symbol="RecommendationsLayout"/>
+        <entry filename="Rez" id="97" lineNum="105" parent="globals/Rez/Layouts" pc="268441794" symbol="RecommendationsLayout"/>
+        <entry filename="Rez" id="98" lineNum="114" parent="globals/Rez/Layouts" pc="268441812" symbol="AddStrengthLayout"/>
+        <entry filename="Rez" id="98" lineNum="116" parent="globals/Rez/Layouts" pc="268441824" symbol="AddStrengthLayout"/>
+        <entry filename="Rez" id="98" lineNum="117" parent="globals/Rez/Layouts" pc="268441989" symbol="AddStrengthLayout"/>
+        <entry filename="Rez" id="98" lineNum="118" parent="globals/Rez/Layouts" pc="268442154" symbol="AddStrengthLayout"/>
+        <entry filename="Rez" id="98" lineNum="120" parent="globals/Rez/Layouts" pc="268442319" symbol="AddStrengthLayout"/>
+        <entry filename="Rez" id="99" lineNum="10" parent="globals/Rez/Layouts" pc="268442518" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="100" lineNum="125" parent="globals/Rez/Menus" pc="268442516" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="101" lineNum="127" parent="globals/Rez/Strings" pc="268442520" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="102" lineNum="1" parent="globals/Rez" pc="268442491" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="102" lineNum="1" parent="globals/Rez" pc="268442491" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="28" method="true" symbol="AddExerciseOptionsLayout"/>
@@ -291,6 +300,7 @@
         <entry field="true" id="8389063" symbol="identifier"/>
         <entry id="8389349" symbol="justification"/>
         <entry id="8389098" method="true" symbol="onTap"/>
+        <entry id="51" method="true" symbol="incrementSubtype"/>
         <entry field="true" id="37" symbol="recommendations_home"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
         <entry field="true" id="40" symbol="history_home"/>
@@ -343,72 +353,71 @@
         <entry arg="true" endPc="268435995" name="dc" stackId="1" startPc="268435954"/>
         <entry arg="true" endPc="268436025" name="dc" stackId="1" startPc="268436001"/>
         <entry arg="true" endPc="268436095" name="dc" stackId="1" startPc="268436054"/>
-        <entry endPc="268436791" name="count" stackId="17" startPc="268436751"/>
-        <entry endPc="268436804" name="i" stackId="16" startPc="268436751"/>
-        <entry endPc="268436977" name="i" stackId="20" startPc="268436843"/>
-        <entry endPc="268437204" name="i" stackId="23" startPc="268437016"/>
-        <entry endPc="268437267" name="tennis" stackId="5" startPc="268436105"/>
-        <entry endPc="268437267" name="bar_height" stackId="15" startPc="268436105"/>
-        <entry endPc="268437267" name="other" stackId="8" startPc="268436105"/>
-        <entry endPc="268437267" name="upperBody" stackId="2" startPc="268436105"/>
-        <entry endPc="268437267" name="y" stackId="19" startPc="268436105"/>
-        <entry endPc="268437267" name="xr" stackId="21" startPc="268436105"/>
-        <entry endPc="268437267" name="x" stackId="18" startPc="268436105"/>
-        <entry endPc="268437267" name="fullBody" stackId="4" startPc="268436105"/>
-        <entry endPc="268437267" name="run" stackId="6" startPc="268436105"/>
-        <entry endPc="268437267" name="lowerBody" stackId="3" startPc="268436105"/>
-        <entry endPc="268437267" name="cardio" stackId="13" startPc="268436105"/>
-        <entry endPc="268437267" name="exercise_dictionary" stackId="10" startPc="268436105"/>
-        <entry endPc="268437267" name="yr" stackId="22" startPc="268436105"/>
-        <entry endPc="268437267" name="exercises" stackId="9" startPc="268436105"/>
-        <entry endPc="268437267" name="exercise_color" stackId="11" startPc="268436105"/>
-        <entry endPc="268437267" name="strength" stackId="12" startPc="268436105"/>
-        <entry endPc="268437267" name="bike" stackId="7" startPc="268436105"/>
-        <entry endPc="268437267" name="total" stackId="14" startPc="268436105"/>
-        <entry arg="true" endPc="268437268" name="dc" stackId="1" startPc="268436101"/>
-        <entry endPc="268437582" name="coordinate" stackId="2" startPc="268437301"/>
-        <entry arg="true" endPc="268437583" name="clickEvent" stackId="1" startPc="268437297"/>
-        <entry arg="true" endPc="268437611" name="state" stackId="1" startPc="268437607"/>
-        <entry arg="true" endPc="268437616" name="state" stackId="1" startPc="268437612"/>
-        <entry arg="true" endPc="268437782" name="dc" stackId="1" startPc="268437741"/>
-        <entry arg="true" endPc="268437812" name="dc" stackId="1" startPc="268437788"/>
-        <entry arg="true" endPc="268437905" name="dc" stackId="1" startPc="268437864"/>
-        <entry arg="true" endPc="268437935" name="dc" stackId="1" startPc="268437911"/>
-        <entry endPc="268438124" name="coordinate" stackId="2" startPc="268437968"/>
-        <entry arg="true" endPc="268438125" name="clickEvent" stackId="1" startPc="268437964"/>
-        <entry arg="true" endPc="268438256" name="swipeEvent" stackId="1" startPc="268438149"/>
-        <entry endPc="268438565" name="coordinate" stackId="2" startPc="268438284"/>
-        <entry arg="true" endPc="268438566" name="clickEvent" stackId="1" startPc="268438280"/>
-        <entry arg="true" endPc="268438670" name="swipeEvent" stackId="1" startPc="268438567"/>
-        <entry arg="true" endPc="268438758" name="dc" stackId="1" startPc="268438717"/>
-        <entry arg="true" endPc="268438788" name="dc" stackId="1" startPc="268438764"/>
-        <entry arg="true" endPc="268438916" name="swipeEvent" stackId="1" startPc="268438817"/>
-        <entry endPc="268439111" name="coordinate" stackId="2" startPc="268438921"/>
-        <entry arg="true" endPc="268439112" name="clickEvent" stackId="1" startPc="268438917"/>
-        <entry endPc="268439481" name="rez_cmp_local_text_history" stackId="3" startPc="268439125"/>
-        <entry endPc="268439481" name="rez_cmp_local_text_recommendations" stackId="2" startPc="268439125"/>
-        <entry arg="true" endPc="268439482" name="dc" stackId="1" startPc="268439113"/>
-        <entry endPc="268439851" name="rez_cmp_local_text_strength" stackId="2" startPc="268439495"/>
-        <entry endPc="268439851" name="rez_cmp_local_text_cardio" stackId="3" startPc="268439495"/>
-        <entry arg="true" endPc="268439852" name="dc" stackId="1" startPc="268439483"/>
-        <entry endPc="268440063" name="rez_cmp_local_text_2480676948" stackId="2" startPc="268439865"/>
-        <entry arg="true" endPc="268440064" name="dc" stackId="1" startPc="268439853"/>
-        <entry endPc="268440407" name="rez_cmp_local_text_1268938640" stackId="3" startPc="268440077"/>
-        <entry endPc="268440407" name="rez_cmp_local_text_5252304282" stackId="2" startPc="268440077"/>
-        <entry arg="true" endPc="268440408" name="dc" stackId="1" startPc="268440065"/>
-        <entry endPc="268440619" name="rez_cmp_local_text_1375319773" stackId="2" startPc="268440421"/>
-        <entry arg="true" endPc="268440620" name="dc" stackId="1" startPc="268440409"/>
-        <entry endPc="268441339" name="rez_cmp_local_text_Other" stackId="5" startPc="268440633"/>
-        <entry endPc="268441339" name="rez_cmp_local_text_Tennis" stackId="4" startPc="268440633"/>
-        <entry endPc="268441339" name="rez_cmp_local_text_Bike" stackId="3" startPc="268440633"/>
-        <entry endPc="268441339" name="rez_cmp_local_text_Run" stackId="2" startPc="268440633"/>
-        <entry arg="true" endPc="268441340" name="dc" stackId="1" startPc="268440621"/>
-        <entry endPc="268441551" name="rez_cmp_local_text_1945911585" stackId="2" startPc="268441353"/>
-        <entry arg="true" endPc="268441552" name="dc" stackId="1" startPc="268441341"/>
-        <entry endPc="268442096" name="rez_cmp_local_text_full_body" stackId="4" startPc="268441565"/>
-        <entry endPc="268442096" name="rez_cmp_local_text_upper_body" stackId="2" startPc="268441565"/>
-        <entry endPc="268442096" name="rez_cmp_local_text_lower_body" stackId="3" startPc="268441565"/>
-        <entry arg="true" endPc="268442097" name="dc" stackId="1" startPc="268441553"/>
+        <entry endPc="268436478" name="count" stackId="11" startPc="268436438"/>
+        <entry endPc="268436491" name="i" stackId="10" startPc="268436438"/>
+        <entry endPc="268436664" name="i" stackId="14" startPc="268436530"/>
+        <entry endPc="268436891" name="i" stackId="17" startPc="268436703"/>
+        <entry endPc="268436891" name="x" stackId="12" startPc="268436414"/>
+        <entry endPc="268436891" name="xr" stackId="15" startPc="268436414"/>
+        <entry endPc="268436891" name="yr" stackId="16" startPc="268436414"/>
+        <entry endPc="268436891" name="y" stackId="13" startPc="268436414"/>
+        <entry endPc="268436957" name="exercise_dictionary" stackId="4" startPc="268436105"/>
+        <entry endPc="268436957" name="total" stackId="8" startPc="268436105"/>
+        <entry endPc="268436957" name="cardio" stackId="7" startPc="268436105"/>
+        <entry endPc="268436957" name="bar_height" stackId="9" startPc="268436105"/>
+        <entry endPc="268436957" name="exercises" stackId="3" startPc="268436105"/>
+        <entry endPc="268436957" name="strength" stackId="6" startPc="268436105"/>
+        <entry endPc="268436957" name="app" stackId="2" startPc="268436105"/>
+        <entry endPc="268436957" name="exercise_color" stackId="5" startPc="268436105"/>
+        <entry arg="true" endPc="268436958" name="dc" stackId="1" startPc="268436101"/>
+        <entry endPc="268437272" name="coordinate" stackId="2" startPc="268436991"/>
+        <entry arg="true" endPc="268437273" name="clickEvent" stackId="1" startPc="268436987"/>
+        <entry endPc="268437717" name="app" stackId="1" startPc="268437278"/>
+        <entry arg="true" endPc="268437723" name="state" stackId="1" startPc="268437719"/>
+        <entry arg="true" endPc="268437728" name="state" stackId="1" startPc="268437724"/>
+        <entry arg="true" endPc="268437894" name="dc" stackId="1" startPc="268437853"/>
+        <entry arg="true" endPc="268437924" name="dc" stackId="1" startPc="268437900"/>
+        <entry arg="true" endPc="268438017" name="dc" stackId="1" startPc="268437976"/>
+        <entry arg="true" endPc="268438047" name="dc" stackId="1" startPc="268438023"/>
+        <entry endPc="268438153" name="incremented" stackId="4" startPc="268438080"/>
+        <entry endPc="268438153" name="exercise_dictionary" stackId="3" startPc="268438080"/>
+        <entry endPc="268438153" name="app" stackId="2" startPc="268438080"/>
+        <entry arg="true" endPc="268438154" name="exercise" stackId="1" startPc="268438076"/>
+        <entry endPc="268438383" name="coordinate" stackId="2" startPc="268438159"/>
+        <entry arg="true" endPc="268438384" name="clickEvent" stackId="1" startPc="268438155"/>
+        <entry arg="true" endPc="268438515" name="swipeEvent" stackId="1" startPc="268438408"/>
+        <entry endPc="268438824" name="coordinate" stackId="2" startPc="268438543"/>
+        <entry arg="true" endPc="268438825" name="clickEvent" stackId="1" startPc="268438539"/>
+        <entry arg="true" endPc="268438929" name="swipeEvent" stackId="1" startPc="268438826"/>
+        <entry arg="true" endPc="268439017" name="dc" stackId="1" startPc="268438976"/>
+        <entry arg="true" endPc="268439047" name="dc" stackId="1" startPc="268439023"/>
+        <entry arg="true" endPc="268439175" name="swipeEvent" stackId="1" startPc="268439076"/>
+        <entry endPc="268439370" name="coordinate" stackId="2" startPc="268439180"/>
+        <entry arg="true" endPc="268439371" name="clickEvent" stackId="1" startPc="268439176"/>
+        <entry endPc="268439740" name="rez_cmp_local_text_history" stackId="3" startPc="268439384"/>
+        <entry endPc="268439740" name="rez_cmp_local_text_recommendations" stackId="2" startPc="268439384"/>
+        <entry arg="true" endPc="268439741" name="dc" stackId="1" startPc="268439372"/>
+        <entry endPc="268440110" name="rez_cmp_local_text_strength" stackId="2" startPc="268439754"/>
+        <entry endPc="268440110" name="rez_cmp_local_text_cardio" stackId="3" startPc="268439754"/>
+        <entry arg="true" endPc="268440111" name="dc" stackId="1" startPc="268439742"/>
+        <entry endPc="268440322" name="rez_cmp_local_text_1091119979" stackId="2" startPc="268440124"/>
+        <entry arg="true" endPc="268440323" name="dc" stackId="1" startPc="268440112"/>
+        <entry endPc="268440666" name="rez_cmp_local_text_1807991601" stackId="2" startPc="268440336"/>
+        <entry endPc="268440666" name="rez_cmp_local_text_6386440583" stackId="3" startPc="268440336"/>
+        <entry arg="true" endPc="268440667" name="dc" stackId="1" startPc="268440324"/>
+        <entry endPc="268440878" name="rez_cmp_local_text_1218367886" stackId="2" startPc="268440680"/>
+        <entry arg="true" endPc="268440879" name="dc" stackId="1" startPc="268440668"/>
+        <entry endPc="268441598" name="rez_cmp_local_text_Other" stackId="5" startPc="268440892"/>
+        <entry endPc="268441598" name="rez_cmp_local_text_Tennis" stackId="4" startPc="268440892"/>
+        <entry endPc="268441598" name="rez_cmp_local_text_Bike" stackId="3" startPc="268440892"/>
+        <entry endPc="268441598" name="rez_cmp_local_text_Run" stackId="2" startPc="268440892"/>
+        <entry arg="true" endPc="268441599" name="dc" stackId="1" startPc="268440880"/>
+        <entry endPc="268441810" name="rez_cmp_local_text_2093659883" stackId="2" startPc="268441612"/>
+        <entry arg="true" endPc="268441811" name="dc" stackId="1" startPc="268441600"/>
+        <entry endPc="268442355" name="rez_cmp_local_text_full_body" stackId="4" startPc="268441824"/>
+        <entry endPc="268442355" name="rez_cmp_local_text_upper_body" stackId="2" startPc="268441824"/>
+        <entry endPc="268442355" name="rez_cmp_local_text_lower_body" stackId="3" startPc="268441824"/>
+        <entry arg="true" endPc="268442356" name="dc" stackId="1" startPc="268441812"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -451,8 +460,8 @@
         <dataEntry label="globals/OptionsDelegate" offset="1397" parentId="globals" symbolId="OptionsDelegate" type="class"/>
         <dataEntry label="globals/OptionsView" offset="1460" parentId="globals" symbolId="OptionsView" type="class"/>
         <dataEntry label="globals/AddCardioDelegate" offset="1539" parentId="globals" symbolId="AddCardioDelegate" type="class"/>
-        <dataEntry label="globals/HistoryView" offset="1594" parentId="globals" symbolId="HistoryView" type="class"/>
-        <dataEntry label="globals/AddCardioView" offset="1673" parentId="globals" symbolId="AddCardioView" type="class"/>
+        <dataEntry label="globals/HistoryView" offset="1602" parentId="globals" symbolId="HistoryView" type="class"/>
+        <dataEntry label="globals/AddCardioView" offset="1681" parentId="globals" symbolId="AddCardioView" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="RecommendationsDelegate" startPc="268435456">
@@ -462,7 +471,7 @@
             <param id="swipeEvent"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442136" name="&lt;init&gt;" parent="RecommendationsDelegate" startPc="268442118">
+        <functionEntry accessMode="protected" endPc="268442395" name="&lt;init&gt;" parent="RecommendationsDelegate" startPc="268442377">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268435609" name="initialize" parent="AddActivityView" startPc="268435587">
@@ -482,7 +491,7 @@
         <functionEntry accessMode="public" endPc="268435686" name="onHide" parent="AddActivityView" startPc="268435682">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442193" name="&lt;init&gt;" parent="AddActivityView" startPc="268442175">
+        <functionEntry accessMode="protected" endPc="268442452" name="&lt;init&gt;" parent="AddActivityView" startPc="268442434">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268435709" name="initialize" parent="AddStrengthDelegate" startPc="268435687">
@@ -492,7 +501,7 @@
             <param id="clickEvent"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442280" name="&lt;init&gt;" parent="AddStrengthDelegate" startPc="268442262">
+        <functionEntry accessMode="protected" endPc="268442539" name="&lt;init&gt;" parent="AddStrengthDelegate" startPc="268442521">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268435853" name="initialize" parent="OptionsView" startPc="268435831">
@@ -512,7 +521,7 @@
         <functionEntry accessMode="public" endPc="268435930" name="onHide" parent="OptionsView" startPc="268435926">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442356" name="&lt;init&gt;" parent="OptionsView" startPc="268442338">
+        <functionEntry accessMode="protected" endPc="268442615" name="&lt;init&gt;" parent="OptionsView" startPc="268442597">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268435953" name="initialize" parent="RecommendationsView" startPc="268435931">
@@ -532,7 +541,7 @@
         <functionEntry accessMode="public" endPc="268436030" name="onHide" parent="RecommendationsView" startPc="268436026">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442174" name="&lt;init&gt;" parent="RecommendationsView" startPc="268442156">
+        <functionEntry accessMode="protected" endPc="268442433" name="&lt;init&gt;" parent="RecommendationsView" startPc="268442415">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268436053" name="initialize" parent="HomePageView" startPc="268436031">
@@ -545,205 +554,209 @@
         <functionEntry accessMode="public" endPc="268436100" name="onShow" parent="HomePageView" startPc="268436096">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437268" name="onUpdate" parent="HomePageView" startPc="268436101">
+        <functionEntry accessMode="public" endPc="268436958" name="onUpdate" parent="HomePageView" startPc="268436101">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437273" name="onHide" parent="HomePageView" startPc="268437269">
+        <functionEntry accessMode="public" endPc="268436963" name="onHide" parent="HomePageView" startPc="268436959">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442155" name="&lt;init&gt;" parent="HomePageView" startPc="268442137">
+        <functionEntry accessMode="protected" endPc="268442414" name="&lt;init&gt;" parent="HomePageView" startPc="268442396">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437296" name="initialize" parent="AddActivityDelegate" startPc="268437274">
+        <functionEntry accessMode="public" endPc="268436986" name="initialize" parent="AddActivityDelegate" startPc="268436964">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437583" name="onTap" parent="AddActivityDelegate" startPc="268437297">
+        <functionEntry accessMode="public" endPc="268437273" name="onTap" parent="AddActivityDelegate" startPc="268436987">
             <param id="clickEvent"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442231" name="&lt;init&gt;" parent="AddActivityDelegate" startPc="268442213">
+        <functionEntry accessMode="protected" endPc="268442490" name="&lt;init&gt;" parent="AddActivityDelegate" startPc="268442472">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437606" name="initialize" parent="exercise_balanceApp" startPc="268437584">
+        <functionEntry accessMode="public" endPc="268437718" name="initialize" parent="exercise_balanceApp" startPc="268437274">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437611" name="onStart" parent="exercise_balanceApp" startPc="268437607">
+        <functionEntry accessMode="public" endPc="268437723" name="onStart" parent="exercise_balanceApp" startPc="268437719">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437616" name="onStop" parent="exercise_balanceApp" startPc="268437612">
+        <functionEntry accessMode="public" endPc="268437728" name="onStop" parent="exercise_balanceApp" startPc="268437724">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437688" name="getInitialView" parent="exercise_balanceApp" startPc="268437617">
+        <functionEntry accessMode="public" endPc="268437800" name="getInitialView" parent="exercise_balanceApp" startPc="268437729">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442212" name="&lt;init&gt;" parent="exercise_balanceApp" startPc="268442194">
+        <functionEntry accessMode="protected" endPc="268442471" name="&lt;init&gt;" parent="exercise_balanceApp" startPc="268442453">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437717" name="getApp" startPc="268437689">
+        <functionEntry accessMode="public" endPc="268437829" name="getApp" startPc="268437801">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437740" name="initialize" parent="HistoryView" startPc="268437718">
+        <functionEntry accessMode="public" endPc="268437852" name="initialize" parent="HistoryView" startPc="268437830">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437782" name="onLayout" parent="HistoryView" startPc="268437741">
+        <functionEntry accessMode="public" endPc="268437894" name="onLayout" parent="HistoryView" startPc="268437853">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437787" name="onShow" parent="HistoryView" startPc="268437783">
+        <functionEntry accessMode="public" endPc="268437899" name="onShow" parent="HistoryView" startPc="268437895">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437812" name="onUpdate" parent="HistoryView" startPc="268437788">
+        <functionEntry accessMode="public" endPc="268437924" name="onUpdate" parent="HistoryView" startPc="268437900">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437817" name="onHide" parent="HistoryView" startPc="268437813">
+        <functionEntry accessMode="public" endPc="268437929" name="onHide" parent="HistoryView" startPc="268437925">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442394" name="&lt;init&gt;" parent="HistoryView" startPc="268442376">
+        <functionEntry accessMode="protected" endPc="268442653" name="&lt;init&gt;" parent="HistoryView" startPc="268442635">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437863" name="initialize" parent="AddStrengthView" startPc="268437818">
+        <functionEntry accessMode="public" endPc="268437975" name="initialize" parent="AddStrengthView" startPc="268437930">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437905" name="onLayout" parent="AddStrengthView" startPc="268437864">
+        <functionEntry accessMode="public" endPc="268438017" name="onLayout" parent="AddStrengthView" startPc="268437976">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437910" name="onShow" parent="AddStrengthView" startPc="268437906">
+        <functionEntry accessMode="public" endPc="268438022" name="onShow" parent="AddStrengthView" startPc="268438018">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437935" name="onUpdate" parent="AddStrengthView" startPc="268437911">
+        <functionEntry accessMode="public" endPc="268438047" name="onUpdate" parent="AddStrengthView" startPc="268438023">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437940" name="onHide" parent="AddStrengthView" startPc="268437936">
+        <functionEntry accessMode="public" endPc="268438052" name="onHide" parent="AddStrengthView" startPc="268438048">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442117" name="&lt;init&gt;" parent="AddStrengthView" startPc="268442099">
+        <functionEntry accessMode="protected" endPc="268442376" name="&lt;init&gt;" parent="AddStrengthView" startPc="268442358">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437963" name="initialize" parent="AddCardioDelegate" startPc="268437941">
+        <functionEntry accessMode="public" endPc="268438075" name="initialize" parent="AddCardioDelegate" startPc="268438053">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438125" name="onTap" parent="AddCardioDelegate" startPc="268437964">
+        <functionEntry accessMode="public" endPc="268438154" name="incrementSubtype" parent="AddCardioDelegate" startPc="268438076">
+            <param id="exercise"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438384" name="onTap" parent="AddCardioDelegate" startPc="268438155">
             <param id="clickEvent"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442375" name="&lt;init&gt;" parent="AddCardioDelegate" startPc="268442357">
+        <functionEntry accessMode="protected" endPc="268442634" name="&lt;init&gt;" parent="AddCardioDelegate" startPc="268442616">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438148" name="initialize" parent="HistoryDelegate" startPc="268438126">
+        <functionEntry accessMode="public" endPc="268438407" name="initialize" parent="HistoryDelegate" startPc="268438385">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438256" name="onSwipe" parent="HistoryDelegate" startPc="268438149">
+        <functionEntry accessMode="public" endPc="268438515" name="onSwipe" parent="HistoryDelegate" startPc="268438408">
             <param id="swipeEvent"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442318" name="&lt;init&gt;" parent="HistoryDelegate" startPc="268442300">
+        <functionEntry accessMode="protected" endPc="268442577" name="&lt;init&gt;" parent="HistoryDelegate" startPc="268442559">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438279" name="initialize" parent="OptionsDelegate" startPc="268438257">
+        <functionEntry accessMode="public" endPc="268438538" name="initialize" parent="OptionsDelegate" startPc="268438516">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438566" name="onTap" parent="OptionsDelegate" startPc="268438280">
+        <functionEntry accessMode="public" endPc="268438825" name="onTap" parent="OptionsDelegate" startPc="268438539">
             <param id="clickEvent"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438670" name="onSwipe" parent="OptionsDelegate" startPc="268438567">
+        <functionEntry accessMode="public" endPc="268438929" name="onSwipe" parent="OptionsDelegate" startPc="268438826">
             <param id="swipeEvent"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442337" name="&lt;init&gt;" parent="OptionsDelegate" startPc="268442319">
+        <functionEntry accessMode="protected" endPc="268442596" name="&lt;init&gt;" parent="OptionsDelegate" startPc="268442578">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438716" name="initialize" parent="AddCardioView" startPc="268438671">
+        <functionEntry accessMode="public" endPc="268438975" name="initialize" parent="AddCardioView" startPc="268438930">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438758" name="onLayout" parent="AddCardioView" startPc="268438717">
+        <functionEntry accessMode="public" endPc="268439017" name="onLayout" parent="AddCardioView" startPc="268438976">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438763" name="onShow" parent="AddCardioView" startPc="268438759">
+        <functionEntry accessMode="public" endPc="268439022" name="onShow" parent="AddCardioView" startPc="268439018">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438788" name="onUpdate" parent="AddCardioView" startPc="268438764">
+        <functionEntry accessMode="public" endPc="268439047" name="onUpdate" parent="AddCardioView" startPc="268439023">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438793" name="onHide" parent="AddCardioView" startPc="268438789">
+        <functionEntry accessMode="public" endPc="268439052" name="onHide" parent="AddCardioView" startPc="268439048">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442413" name="&lt;init&gt;" parent="AddCardioView" startPc="268442395">
+        <functionEntry accessMode="protected" endPc="268442672" name="&lt;init&gt;" parent="AddCardioView" startPc="268442654">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438816" name="initialize" parent="HomePageDelegate" startPc="268438794">
+        <functionEntry accessMode="public" endPc="268439075" name="initialize" parent="HomePageDelegate" startPc="268439053">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438916" name="onSwipe" parent="HomePageDelegate" startPc="268438817">
+        <functionEntry accessMode="public" endPc="268439175" name="onSwipe" parent="HomePageDelegate" startPc="268439076">
             <param id="swipeEvent"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439112" name="onTap" parent="HomePageDelegate" startPc="268438917">
+        <functionEntry accessMode="public" endPc="268439371" name="onTap" parent="HomePageDelegate" startPc="268439176">
             <param id="clickEvent"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442299" name="&lt;init&gt;" parent="HomePageDelegate" startPc="268442281">
+        <functionEntry accessMode="protected" endPc="268442558" name="&lt;init&gt;" parent="HomePageDelegate" startPc="268442540">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442256" name="&lt;init&gt;" parent="Drawables" startPc="268442256">
+        <functionEntry accessMode="protected" endPc="268442515" name="&lt;init&gt;" parent="Drawables" startPc="268442515">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442258" name="&lt;init&gt;" parent="Fonts" startPc="268442258">
+        <functionEntry accessMode="protected" endPc="268442517" name="&lt;init&gt;" parent="Fonts" startPc="268442517">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442260" name="&lt;init&gt;" parent="JsonData" startPc="268442260">
+        <functionEntry accessMode="protected" endPc="268442519" name="&lt;init&gt;" parent="JsonData" startPc="268442519">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439482" name="OptionsLayout" parent="Layouts" startPc="268439113">
+        <functionEntry accessMode="public" endPc="268439741" name="OptionsLayout" parent="Layouts" startPc="268439372">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439852" name="AddExerciseOptionsLayout" parent="Layouts" startPc="268439483">
+        <functionEntry accessMode="public" endPc="268440111" name="AddExerciseOptionsLayout" parent="Layouts" startPc="268439742">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440064" name="HistoryLayout" parent="Layouts" startPc="268439853">
+        <functionEntry accessMode="public" endPc="268440323" name="HistoryLayout" parent="Layouts" startPc="268440112">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440408" name="AddActivityLayout" parent="Layouts" startPc="268440065">
+        <functionEntry accessMode="public" endPc="268440667" name="AddActivityLayout" parent="Layouts" startPc="268440324">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440620" name="HomePageLayout" parent="Layouts" startPc="268440409">
+        <functionEntry accessMode="public" endPc="268440879" name="HomePageLayout" parent="Layouts" startPc="268440668">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441340" name="AddCardioLayout" parent="Layouts" startPc="268440621">
+        <functionEntry accessMode="public" endPc="268441599" name="AddCardioLayout" parent="Layouts" startPc="268440880">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441552" name="RecommendationsLayout" parent="Layouts" startPc="268441341">
+        <functionEntry accessMode="public" endPc="268441811" name="RecommendationsLayout" parent="Layouts" startPc="268441600">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268442097" name="AddStrengthLayout" parent="Layouts" startPc="268441553">
+        <functionEntry accessMode="public" endPc="268442356" name="AddStrengthLayout" parent="Layouts" startPc="268441812">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442259" name="&lt;init&gt;" parent="Layouts" startPc="268442259">
+        <functionEntry accessMode="protected" endPc="268442518" name="&lt;init&gt;" parent="Layouts" startPc="268442518">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442257" name="&lt;init&gt;" parent="Menus" startPc="268442257">
+        <functionEntry accessMode="protected" endPc="268442516" name="&lt;init&gt;" parent="Menus" startPc="268442516">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442261" name="&lt;init&gt;" parent="Strings" startPc="268442261">
+        <functionEntry accessMode="protected" endPc="268442520" name="&lt;init&gt;" parent="Strings" startPc="268442520">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268442255" name="&lt;init&gt;" parent="Rez" startPc="268442232">
+        <functionEntry accessMode="protected" endPc="268442514" name="&lt;init&gt;" parent="Rez" startPc="268442491">
             <documentation/>
         </functionEntry>
     </functions>
